@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State private var facts = ("I am a rising senior from Atlanta, Georgia")
+    @State private var facts = ("I am a rising senior from Atlanta, Georgia at Lakeside High School. ")
     
     var body: some View {
         
